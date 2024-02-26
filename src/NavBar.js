@@ -4,8 +4,8 @@ function NavBar(){
 
 
     return <nav>
-        <a>HOME</a>
-        <a>ABOUT</a>
+        <a>CHARACTERS</a>
+        <a>ADD COMBO</a>
         <a>MISC</a>
     </nav>
 }
