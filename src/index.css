@@ -18,7 +18,7 @@ nav {
   left: 0;
   right: 0;
 }
-.Characters,.Combos {
+.Characters,.Combos,.Home {
   
   height: 50px;
   min-height: 400px;
@@ -28,7 +28,7 @@ nav {
 
 .Characters,
 .Combos,
-#projects {
+.Home {
   display: flex;
   align-items: center;
   justify-content: center;
