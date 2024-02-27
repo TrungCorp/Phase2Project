@@ -3,5 +3,11 @@ import React from "react"
 function Characters(){
 
 
-    return <img />
+    return (
+        <div className="Characters">
+            <p>FILLER CONTENT</p>
+        </div>
+    )
 }
+
+export default Characters;
